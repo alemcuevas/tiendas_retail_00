@@ -4,12 +4,12 @@ Una página web moderna y responsiva creada con HTML, CSS y JavaScript puro.
 
 ## Características
 
-- **Diseño responsivo**: Se adapta a todos los dispositivos
-- **Navegación suave**: Scroll animado entre secciones
-- **Menú hamburguesa**: Para dispositivos móviles
-- **Formulario funcional**: Con validación de datos
-- **Animaciones CSS**: Efectos visuales atractivos
-- **Atajos de teclado**: Para navegación rápida
+- **Diseño responsivo**: Se adapta a todos los dispositivos.
+- **Navegación suave**: Scroll animado entre secciones.
+- **Menú hamburguesa**: Para dispositivos móviles.
+- **Formulario funcional**: Con validación de datos.
+- **Animaciones CSS**: Efectos visuales atractivos.
+- **Atajos de teclado**: Para navegación rápida. 
 
 ## Estructura de archivos
 
